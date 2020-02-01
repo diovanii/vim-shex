@@ -25,6 +25,8 @@ Source the file with `:source $MYVIMRC` and then run `:PlugInstall`
 
 ## :link: Usage
 
+![Preview](https://media.giphy.com/media/kGWbNC0Hij4BGyAljc/giphy.gif)
+
 You can set the `shex_trigger` by adding this line to your `.vimrc`
 
 ```vim
