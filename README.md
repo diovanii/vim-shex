@@ -1,11 +1,15 @@
 # vim-shex
 
+#### A simple vim plugin to run Shell Scripts
+
+<br>
+
 * [Installation](#wrench-installation)
 * [Usage](#link-usage)
 * [Issues](#rotating_light-issues)
 * [License](#page_with_curl-license)
 
-A simple vim plugin to run Shell Scripts
+<br>
 
 ## :wrench: Installation
 
